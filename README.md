@@ -7,4 +7,5 @@ Regroupe la documentation du Docteur Tenma.
 * Navigation par commande vocale
 * Apprendre au robot à se tenir droit (gyro)
 * Navigation à l'aide d'une application mobile
+* Ajouter de l'apprentissage visuel via une webcam + https://fr.wikipedia.org/wiki/TensorFlow (vu en conférence à Codeur en Seine)
 
