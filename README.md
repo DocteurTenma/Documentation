@@ -5,4 +5,5 @@ Regroupe la documentation du Docteur Tenma.
 
 * Résolution de labyrinthe
 * Navigation par commande vocale
+* Apprendre au robot à se tenir droit (gyro)
 
