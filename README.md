@@ -7,7 +7,7 @@ Regroupe la documentation du Docteur Tenma.
 
 ### Les autres travaux
 
-* Création du serveur web [Kinto](https://github.com/DocteurTenma/Kinto) pour communiquer avec les robots
+* [Kinto](https://github.com/DocteurTenma/Kinto) serveur web pour communiquer avec les robots
 * Navigation par commande vocale
 * Résolution de labyrinthe
 * Navigation à l'aide d'une application mobile
